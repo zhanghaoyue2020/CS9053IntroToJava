@@ -1028,7 +1028,7 @@ public class WildCardNeedDemo {
 The max number is 2.0
 */
 ```
-## Part 4: Container
+## Part 4: Container (lecture 09)
 
 ![image](https://user-images.githubusercontent.com/85269000/202549463-dfcec803-9005-4065-bec3-b2ecfea54622.png)
 
@@ -1939,7 +1939,7 @@ Input data: -1
 */
 ```
 
-## Part 6: Threads
+## Part 6: Threads (Lecture 10)
 ### 13: thread and runnable
 
 (interface) Runnable
@@ -2547,7 +2547,7 @@ public class Consumer<T> implements Runnable{
 }
 ```
 
-## Part 7:  GUI
+## Part 7:  GUI (Lecture 08, Lecture 09)
 
 ![image](https://user-images.githubusercontent.com/85269000/202547150-69c8bd60-2c7d-48b8-9f14-6662ef9f509d.png)
 
@@ -3401,5 +3401,5 @@ public class GraphicsFeatures extends JFrame {
 	}
 }
 ```
-## Part 8: IOStream
-## Part 9: DataBase
+## Part 8: IOStream (Lecture 11)
+## Part 9: DataBase (Lecture 12)
