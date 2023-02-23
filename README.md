@@ -3,22 +3,22 @@
 
 note：https://docs.google.com/document/d/1omLIzwM-K-tvGMOCcawv1uhK9Oap50c5Dk7gv4a-6qw/edit#heading=h.lravd7pgx9cb
 
-##### [Part 1: Input and Output](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-1-input-and-output) 
+##### [Part 1: Input and Output](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-1-input-and-output-1)
 [0. Location](https://github.com/zhanghaoyue2020/CS9053IntroToJava#0-location)
 [1. Welcome](https://github.com/zhanghaoyue2020/CS9053IntroToJava#1-welcome)
 [2. output](https://github.com/zhanghaoyue2020/CS9053IntroToJava#2-output)
 [3. input](https://github.com/zhanghaoyue2020/CS9053IntroToJava#3input)
 
 ##### [Part 2: Int, Double, String, and Time](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-2-int-doublestring-and-time)
-[4. int and double](https://github.com/zhanghaoyue2020/CS9053IntroToJava#4-int-and-double)
+[4. int and double](https://github.com/zhanghaoyue2020/CS9053IntroToJava#4int-and-double)
 [5. string](https://github.com/zhanghaoyue2020/CS9053IntroToJava#5-string)
 [6. System.currentTimeMillis()](https://github.com/zhanghaoyue2020/CS9053IntroToJava#6systemcurrenttimemillis)
 
-##### [Part 3: Classes and Interfaces](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-3-classes-and-interfaces)
+##### [Part 3: Classes and Interfaces](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-3-classes-and-interfaces-1)
 [7. Classes](https://github.com/zhanghaoyue2020/CS9053IntroToJava#7-classes)
 [8. interfaces](https://github.com/zhanghaoyue2020/CS9053IntroToJava#8-interfaces)
 
-##### [Part 4: Container (lecture 09)](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-4-container-lecture-09)
+##### [Part 4: Container (lecture 09)](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-4-container-lecture-09-1)
 [9. Concrete classes](https://github.com/zhanghaoyue2020/CS9053IntroToJava#9-concrete-classes)
 [10. Maps](https://github.com/zhanghaoyue2020/CS9053IntroToJava#10-maps)
 
