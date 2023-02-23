@@ -26,11 +26,11 @@ note：https://docs.google.com/document/d/1omLIzwM-K-tvGMOCcawv1uhK9Oap50c5Dk7gv
 [11. Exception](https://github.com/zhanghaoyue2020/CS9053IntroToJava#11-exception)
 [12. file open, read, write](https://github.com/zhanghaoyue2020/CS9053IntroToJava#12-fileopen-read-write)
 
-##### [Part 6: Threads (Lecture 10)](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-6-threads-lecture-10)
+##### [Part 6: Threads (Lecture 10)](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-6-threads-lecture-10-1)
 [13. thread and runnable](https://github.com/zhanghaoyue2020/CS9053IntroToJava#13-thread-and-runnable)
 [14. Sync](https://github.com/zhanghaoyue2020/CS9053IntroToJava#14-sync)
 
-##### [Part 7: GUI (Lecture 08, Lecture 09)](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-7-gui-lecture-08-lecture-09)
+##### [Part 7: GUI (Lecture 08, Lecture 09)](https://github.com/zhanghaoyue2020/CS9053IntroToJava#part-7gui-lecture-08-lecture-09)
 
 ##### [Part 8: IOStream (Lecture 11)]
 
